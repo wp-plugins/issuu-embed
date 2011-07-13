@@ -6,7 +6,7 @@ Requires at least: 3.2
 Tested up to: 3.2
 Stable tag: 1.0
 
-Issuu Embed allows you to copy and paste the URL of a Issuu document into your blog post and have it automatically embedded just as you would expect with other oEmbedable sites like Vimeo, YouTube, Flickr, and others.
+Issuu Embed allows you to copy and paste the URL of a Issuu document into your blog post and have it automatically embedded just as you would expect.
 
 == Description ==
 
