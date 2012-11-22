@@ -3,7 +3,7 @@ Contributors: unknowndomain
 Donate link: http://supportus.cancerresearchuk.org/donate/
 Tags: issuu, embed, document, flash, publication, magazine, viewer, oembed, wp-issuu, wpms, multisite, multi site, wpmu
 Requires at least: 3.2
-Tested up to: 3.3
+Tested up to: 3.5
 Stable tag: 1.0
 
 Issuu Embed allows you to copy and paste the URL of a Issuu document into your blog post and have it automatically embedded just as you would expect.
