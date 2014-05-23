@@ -4,7 +4,6 @@ Tags: document, issuu, embed, viewer, flash, publication
 Requires at least: 2.9
 Tested up to: 3.9.1
 Stable tag: 2.0
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WNQ5ZYVPXRSSA&lc=GB&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 
 This is the only official Issuu Plugin for Wordpress.
 
