@@ -11,6 +11,8 @@ This is the only official Issuu Plugin for Wordpress.
 
 Issuu Embed simplifies the embedding of Issuu publications in blog posts, allowing you to copy/paste any publication URL from your browser into your blog post.
 
+Starting with WordPress 4.0 this functionality is built-in. This plugin is still required for previous versions of WordPress.
+
 Note: This plugin is now the official Issuu plugin. The old plugin “wp-issuu” has been deprecated. Thanks to Tom Lynch for helping with this.
 
 == Installation ==
