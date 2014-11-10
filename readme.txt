@@ -3,7 +3,7 @@ Contributors: issuu
 Tags: document, issuu, embed, viewer, flash, publication
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 2.0
+Stable tag: 2.0.1
 
 This is the only official Issuu Plugin for Wordpress.
 
