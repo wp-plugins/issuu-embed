@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Issuu Embed: The Official Plugin
+ * Plugin Name: issuu Embed: The Official Plugin (Deprecated)
  * Plugin URI: http://issuu.com
- * Description: This plugin simplifies the embedding of Issuu publications in blog posts, allowing you to copy/paste any publication URL from your browser into your blog post.
+ * Description: This plugin is now deprecated as WordPress 4.0 and up has this functionality is built-in. It simplifies the embedding of issuu publications in blog posts, allowing you to copy/paste any publication URL from your browser into your blog post.
  * Version: 2.0
- * Author: Issuu
+ * Author: issuu
  * Author URI: http://issuu.com
  * License: GPL2
  */

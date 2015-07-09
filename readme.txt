@@ -1,17 +1,17 @@
-=== Issuu Embed: The Official Plugin ===
+=== Issuu Embed: The Official Plugin (Deprecated) ===
 Contributors: issuu
 Tags: document, issuu, embed, viewer, flash, publication
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 2.0.1
+Stable tag: 2.0.2
 
-This is the only official Issuu Plugin for Wordpress.
+(Deprecated) This is the only official Issuu Plugin for Wordpress. It is built into WordPress 4.0 and up.
 
 == Description ==
 
-Issuu Embed simplifies the embedding of Issuu publications in blog posts, allowing you to copy/paste any publication URL from your browser into your blog post.
+This plugin is now deprecated as WordPress 4.0 and up has this functionality is built-in. It simplifies the embedding of issuu publications in blog posts, allowing you to copy/paste any publication URL from your browser into your blog post.
 
-Starting with WordPress 4.0 this functionality is built-in. This plugin is still required for previous versions of WordPress.
+This plugin is still required for previous versions of WordPress.
 
 Note: This plugin is now the official Issuu plugin. The old plugin “wp-issuu” has been deprecated. Thanks to Tom Lynch for helping with this.
 
