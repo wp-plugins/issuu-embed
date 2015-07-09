@@ -5,7 +5,7 @@ Requires at least: 2.9
 Tested up to: 3.9.1
 Stable tag: 2.0.2
 
-(Deprecated) This is the only official Issuu Plugin for Wordpress. It is built into WordPress 4.0 and up.
+(Deprecated) This is the only official Issuu Plugin for Wordpress. The functionality is built into WordPress 4.0 and up, so only needed for older versions.
 
 == Description ==
 
